@@ -7,6 +7,8 @@
 # https://www.shellscript.sh/index.html
 # https://www.shellscript.sh/quickref.html
 
+# bash terminal shortcuts https://www.maketecheasier.com/bash-keyboard-shortcuts/
+
 # variable creation
 NEW_MESSAGE="not such a creative greeting!"
 
